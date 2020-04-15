@@ -1,0 +1,12 @@
+.input {
+  width: 20%;
+}
+
+.is-parent {
+  width: 90%;
+  margin: 20px auto;
+}
+
+input {
+  width: 120px;
+}
