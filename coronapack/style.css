@@ -1,0 +1,37 @@
+body {
+  background-color: #fafafa;
+  font-family: 'NanumSquare', sans-serif;
+}
+body div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#data {
+  margin-top: 20px;
+  font-size: 70px;
+  font-weight: bold;
+  color: #393b40;
+}
+#date {
+}
+#sites {
+  margin-left: auto;
+  margin-right: auto;
+}
+#sites div {
+  margin-top: 40px;
+  background-color: white;
+  box-shadow: 5px 5px 30px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  padding: 20px;
+}
+#sites div span {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+#sites div a {
+  font-size: 18px;
+  color: #6b7282;
+  text-decoration: none;
+}
